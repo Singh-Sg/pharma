@@ -1,0 +1,33 @@
+Create e-precription API for ordering drugs
+    
+Test task: Building a Django Restframework API
+This test task is related to e-prescription module we are currently working on:
+https://trello.com/c/73K3WOvu/445-prescription#comment-602c262edb6d236db0b26eb9
+https://en.wikipedia.org/wiki/Electronic_prescribing
+    
+Note that for you it is just a dummy test task and what you build is not
+something we are going to use. so no need for you to understand the exact logic.
+Just create a high level logic of what you think such a Django Restframework resource
+needs to contain.
+    
+    
+Module:
+Imagine we had to create for our service an e-prescription module that allows a 
+patient to order drugs from a pharmarcy, 
+what will be the main components  of the e-precscription module? which fields would
+be needed? what would we need to consider in such a module?
+    
+Models:
+a) User
+b) Booking
+c) Drugs
+c) Pharmacy
+    
+
+I want you to create a Django Restframework API that can be used for creating a prescription
+for a given user and then sending it to a pharmacy.
+We have no pharmacy where you can send this orders. so the task is to just create the orders.
+    
+This task is not just about coding. It is also about reviewing your ability to understand 
+the business logic behind our product on a high level.
+     

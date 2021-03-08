@@ -1,0 +1,29 @@
+*DOctor:-
+1.Name
+2.Doctor post
+3.Name of hospital/clinic
+4.address Of Hospital/Clinic
+4registerd. no.
+
+================================
+*Patient:-
+1. Name of Patient
+2.Age
+3.Address of Patient
+4.Date of consultation
+
+==============================
+*Drug/Medicine:-
+1.Medicine Name
+2.Strength
+3.Dose
+4.Duration
+
+==============================
+*Precscription
+-Doctor Detail
+-Patient Detail
+-Drug/Medicine
+
+==============================
+Order
